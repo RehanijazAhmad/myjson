@@ -1,0 +1,13 @@
+{"person": [
+    {
+      "name": "Ali",
+      "password": "123",
+      "country": "pakistan"
+    },
+    {
+      "name": "Bilal",
+      "password": "123",
+      "country": "pakistan"
+    }
+  ]
+}
